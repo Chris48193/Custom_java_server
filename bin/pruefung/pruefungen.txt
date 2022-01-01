@@ -1,0 +1,2 @@
+{"modulNummer": 5,"modulBezeichnung": Physik,"tag": 3,"monat": 5,"jahr": 2022,"ort": Bafoussam}
+{"modulNummer": 9,"modulBezeichnung": Physik,"tag": 3,"monat": 5,"jahr": 2024,"ort": Bafoussam}
